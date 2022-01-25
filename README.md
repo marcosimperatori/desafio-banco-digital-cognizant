@@ -1,4 +1,4 @@
-# desafio-banco-digital-cognizant
+# desafio-banco-digital
 
 Este desafio faz parte do bootcamp  Cognizant Java Developer. Nele foi implementado um modelo de banco, de maneira simples, mas na qual foi possível aplicar os princípios da orientação a objetos, utilizando-se da linguagem Java.
 
